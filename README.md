@@ -1,2 +1,2 @@
 # CMLMP
-Algorithms for Completed Mean Local Mapped Pattern - CMLPM
+Matlab Software for Completed Mean Local Mapped Pattern - CMLMP
