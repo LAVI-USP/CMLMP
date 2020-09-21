@@ -2,8 +2,8 @@
 % CMLMP - Completed Mean Local Mapped Pattern 
 %---
 % # developed by Osmando Pereira Junior, 2019
-% # mail: osmandoj@gmail.com
-% # based on MLMP and CLMP descriptors
+% 
+% # based on MLMP, CLMP and CLBP descriptors
 %---
 % Input arguments:
 % image - Gray scale image.
